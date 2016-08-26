@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PortalValidation">
+  <test name="PortalValidation">
+    <classes>
+      <class name="testcases.VerifyLoginPage"/>
+      <class name="testcases.VerifyHomePageWithReport"/>
+      <class name="testcases.VerifyHomePage"/>
+    </classes>
+  </test> <!-- PortalValidation -->
+</suite> <!-- PortalValidation -->
